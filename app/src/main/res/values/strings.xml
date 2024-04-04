@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">초 간단 계산기</string>
+    <string name="btnPlus">더하기</string>
+    <string name="btnMinus">빼기</string>
+    <string name="btnMultiply">곱하기</string>
+    <string name="btnDivide">나누기</string>
+    <string name="textResult">계산 결과:</string>
+    <string name="editHint">정수 입력</string>
+    <string name="btnMod">나머지</string>
+</resources>
